@@ -1,0 +1,14 @@
+{
+  "LSTM": {
+    "test_accuracy": 0.92026,
+    "weighted_f1": 0.91911,
+    "weighted_precision": 0.92039,
+    "weighted_recall": 0.92026
+  },
+  "GRU": {
+    "test_accuracy": 0.92195,
+    "weighted_f1": 0.92131,
+    "weighted_precision": 0.92319,
+    "weighted_recall": 0.92195
+  }
+}
